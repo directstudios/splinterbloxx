@@ -1,2 +1,0 @@
-# splinterbloxx
-Stuff for SB
